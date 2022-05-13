@@ -10,6 +10,7 @@ CKD and classifies the patient in a binary manner. This research
 conducts a relative analysis of the performance of several 
 machine learning and deep learning methods.
 
+Authors - P Leena Reddy @p-leena-reddy-111 , Meher Shrishti Nigam @shrishtinigam
 
 Current Draft of the Report -
 https://drive.google.com/file/d/1dnae1dry38wn1Ukd8Z7hRUGEqTGQ6Wig/view?usp=sharing
