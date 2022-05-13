@@ -9,3 +9,7 @@ Sequential model, the presented work predicts the likelihood of
 CKD and classifies the patient in a binary manner. This research 
 conducts a relative analysis of the performance of several 
 machine learning and deep learning methods.
+
+
+Current Draft of the Report -
+https://drive.google.com/file/d/1dnae1dry38wn1Ukd8Z7hRUGEqTGQ6Wig/view?usp=sharing
