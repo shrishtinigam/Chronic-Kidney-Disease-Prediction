@@ -6,9 +6,10 @@ the albumin to creatinine ratio (A score). Using machine learning
 techniques such as Gaussian Naive Bayes, and Logistic 
 Regression, and deep learning techniques such as CNN 
 Sequential model, the presented work predicts the likelihood of 
-CKD and classifies the patient in a binary manner. This research 
-conducts a relative analysis of the performance of several 
-machine learning and deep learning methods.
+CKD and classifies the patient in a binary manner. 
+The dataset is preprocessed by 4 four different methods.
+This research conducts a relative analysis of the performance of 
+several machine learning and deep learning methods.
 
 Authors - P Leena Reddy @p-leena-reddy-111 , Meher Shrishti Nigam @shrishtinigam
 
