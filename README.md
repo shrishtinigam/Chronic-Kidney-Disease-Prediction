@@ -13,4 +13,4 @@ machine learning and deep learning methods.
 Authors - P Leena Reddy @p-leena-reddy-111 , Meher Shrishti Nigam @shrishtinigam
 
 Current Draft of the Report -
-https://drive.google.com/file/d/1dnae1dry38wn1Ukd8Z7hRUGEqTGQ6Wig/view?usp=sharing
+https://docs.google.com/document/d/1o8duxxORyuUx0FDG8bEjfmH8H3Kn4soi/edit?usp=sharing&ouid=102061234540277159333&rtpof=true&sd=true
